@@ -1,0 +1,7 @@
+# Virtual environment
+env/
+
+# Test files
+*.xlsx
+xml.txt
+original_script.py
